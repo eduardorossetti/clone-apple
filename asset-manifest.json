@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/clone-apple/static/css/main.c1085286.css",
+    "main.js": "/clone-apple/static/js/main.6ce0831f.js",
+    "static/media/myriadproblack.otf": "/clone-apple/static/media/myriadproblack.e730e1b19ca276c646dc.otf",
+    "static/media/myriadprobold.ttf": "/clone-apple/static/media/myriadprobold.ba6deb5147fa6e225f9b.ttf",
+    "static/media/myriadproregular.ttf": "/clone-apple/static/media/myriadproregular.c59859cec849233be7f8.ttf",
+    "static/media/myriadprolight.otf": "/clone-apple/static/media/myriadprolight.b0bb7658963c5d720ddd.otf",
+    "index.html": "/clone-apple/index.html",
+    "main.c1085286.css.map": "/clone-apple/static/css/main.c1085286.css.map",
+    "main.6ce0831f.js.map": "/clone-apple/static/js/main.6ce0831f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1085286.css",
+    "static/js/main.6ce0831f.js"
+  ]
+}
